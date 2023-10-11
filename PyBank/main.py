@@ -18,7 +18,7 @@ with open ('budget_data.csv') as csvfile:
         # TASK 1: Calculate the total number of months included in the dataset
         total_months += 1
 
-        # TASK 2: Calculate the 
+        # TASK 2: Calculate the net total amount of "Profit/Losses" over the entire period   
 
 
     

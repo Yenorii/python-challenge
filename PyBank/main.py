@@ -12,10 +12,13 @@ total_months = 0
 with open ('budget_data.csv') as csvfile:
     csvreader = csv.dictReader(csvfile)
 
-
-# TASK 1: Calculate the total number of months included in the dataset
+    # loop throught the 'Date'row
     for row in csvreader:
+
+        # TASK 1: Calculate the total number of months included in the dataset
         total_months += 1
+
+        # TASK 2: Calculate the 
 
 
     

@@ -7,9 +7,10 @@ election_data_csv = os.path.join("/Users/yenori/Desktop/GitHub/python-challenge/
 with open ('election_data.csv') as csvfile:
     csvreader = csv.dictReader(csvfile)
 
-# set variables
+# run through the data
 
+# variables:
 
-# Calculate the total number of votes cast:
+# calculate the total number of votes cast:
 
 

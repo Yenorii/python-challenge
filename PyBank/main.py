@@ -1,13 +1,8 @@
-# import the modules
+# import modules
 import os
 import csv
 
-# set the path for the csv
+# set path, open file, and loop through columns
 budget_data_csv = os.path.join("/Users/yenori/Desktop/GitHub/python-challenge/PyBank/Resources")
-
-# (?) set the variables (?)
-total_months = 0
-
-# run through the data
 
 # variables:
